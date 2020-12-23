@@ -14,7 +14,7 @@ The simplest case is a 2-level system namely there're two states with different 
   3. Stimulated emission process (the transition rate per unit density is described by B12)
       ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AtomicLineInEm.svg/340px-AtomicLineInEm.svg.png)
 
-![](http://latex.codecogs.com/png.latex?\dpi{110}&space;\begin{align}\begin{aligned}\frac{\partial\rho_i}{\partial&space;t}=-\sum_{j\neq&space;i}B_{ij}(I_{\mathrm{BBR}}&plus;I_{\mathrm{laser}})\rho_i&space;-&space;\sum_{j<i}A_{ij}\rho_i&space;\\&plus;\sum_{j\neq&space;i}B_{ji}(I_{\mathrm{BBR}}&plus;I_{\mathrm{laser}})\rho_i&space;&plus;&space;\sum_{j>i}A_{ji}\rho_i&space;\end{aligned}\end{align}" title="http://latex.codecogs.com/png.latex?\dpi{110} \begin{align}\begin{aligned}\frac{\partial\rho_i}{\partial t}=-\sum_{j\neq i}B_{ij}(I_{\mathrm{BBR}}+I_{\mathrm{laser}})\rho_i - \sum_{j<i}A_{ij}\rho_i \\+\sum_{j\neq i}B_{ji}(I_{\mathrm{BBR}}+I_{\mathrm{laser}})\rho_i + \sum_{j>i}A_{ji}\rho_i \end{aligned}\end{align})>
+![](http://latex.codecogs.com/png.latex?%5Cdpi%7B110%7D%20%5Cbegin%7Balign%7D%5Cbegin%7Baligned%7D%5Cfrac%7B%5Cpartial%5Crho_i%7D%7B%5Cpartial%20t%7D=-%5Csum_%7Bj%5Cneq%20i%7DB_%7Bij%7D(I_%7B%5Cmathrm%7BBBR%7D%7D&plus;I_%7B%5Cmathrm%7Blaser%7D%7D)%5Crho_i%20-%20%5Csum_%7Bj%3Ci%7DA_%7Bij%7D%5Crho_i%20%5C%5C&plus;%5Csum_%7Bj%5Cneq%20i%7DB_%7Bji%7D(I_%7B%5Cmathrm%7BBBR%7D%7D&plus;I_%7B%5Cmathrm%7Blaser%7D%7D)%5Crho_i%20&plus;%20%5Csum_%7Bj%3Ei%7DA_%7Bji%7D%5Crho_i%20%5Cend%7Baligned%7D%5Cend%7Balign%7D)
 
 ## Usage
 * Prepare necessary files for constructing the rate equation
