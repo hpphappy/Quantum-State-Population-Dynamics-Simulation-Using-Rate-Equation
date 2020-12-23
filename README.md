@@ -1,6 +1,19 @@
-# Quantum-State-Population-Dynamics-Simulation-Using-Rate-Equation
-Solving rate equations to obtain the quantum states population dynamics. 
+# QSPD
+QSPD is used to solve the rate equations to obtain the **q**uantum **s**tates **p**opulation **d**ynamics. 
 
+
+## Introduction
+QSPD uses Einstein rate equation model to construct the rate equations, and solve it to get the population dynamics. <br>
+The simplest case is a 2-level system namely there're two states with different energies in the system. According to the model, three types of transition can happen. <br>
+  1. Absorption process - absorbing a photon to go to the higher-energy level
+  2. Spontaneous emission process 
+      * 
+  3. Stimulated emission process (the transition rate per unit density is described by B12)
+      * ![](https://en.wikipedia.org/wiki/Einstein_coefficients#/media/File:AtomicLineSpEm.svg)
+The population in those 2 states
+
+## Usage
+* Prepare necessary files for constructing the rate equation
 To construct the rate equations, you need the following excel or txt files.
 
 1. the transition energy matrix, TransE[i,j] = StateEnergy[i]-StateEnergy[j]. 
