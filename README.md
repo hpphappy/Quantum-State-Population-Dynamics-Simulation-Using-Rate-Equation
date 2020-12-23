@@ -6,12 +6,13 @@ QSPD is used to solve the rate equations to obtain the **q**uantum **s**tates **
 QSPD uses Einstein rate equation model to construct the rate equations, and solve it to get the population dynamics. <br>
 The simplest case is a 2-level system namely there're two states with different energies in the system. According to the model, three types of transition can happen. <br>
   1. Absorption process - absorbing a photon to go to the higher-energy level
-      * ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AtomicLineAb.svg/340px-AtomicLineAb.svg.png)
+      ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AtomicLineAb.svg/340px-AtomicLineAb.svg.png)
   2. Spontaneous emission process 
-      * ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/AtomicLineSpEm.svg/339px-AtomicLineSpEm.svg.png)
+      ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/AtomicLineSpEm.svg/339px-AtomicLineSpEm.svg.png)
   3. Stimulated emission process (the transition rate per unit density is described by B12)
-      * ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AtomicLineInEm.svg/340px-AtomicLineInEm.svg.png)
-      
+      ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AtomicLineInEm.svg/340px-AtomicLineInEm.svg.png)
+
+![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
 The number density in state1 and in state2 ($$ n_{1} and n_{2} $$) then can be calculated 
 
 ## Usage
