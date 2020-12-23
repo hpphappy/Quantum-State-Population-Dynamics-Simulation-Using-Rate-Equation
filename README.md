@@ -9,7 +9,7 @@ The simplest case is a 2-level system namely there're two states with different 
   2. Spontaneous emission process 
       * 
   3. Stimulated emission process (the transition rate per unit density is described by B12)
-      * ![](https://en.wikipedia.org/wiki/Einstein_coefficients#/media/File:AtomicLineSpEm.svg)
+      * ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AtomicLineAb.svg/340px-AtomicLineAb.svg.png)
 The population in those 2 states
 
 ## Usage
