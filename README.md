@@ -35,9 +35,11 @@ where ![](http://latex.codecogs.com/png.latex?\dpi{110}&space;\rho_i) is the pop
     3. the array of state degeneracies.
     The example file is `AlH+\_v1_J_degeneracy_sort_by_Energy_Threshold-6.csv`
     
+2. Open `Quantum_States_Population_Dynamics_Simulation.py`. Change the paths of the required files in step 1 in it, and run. The state population changing with time will be saved to a .csv file. The dynamics of the states with the poulation > 5% at the end of the simulation time will be saved as a .pdf plot.
+ 
 **Note 1:** 
 
-the states are sort by state energy.
+the states are sorted by the state energy in the ascending order.
 
 **Note 2:**
 
