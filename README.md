@@ -7,15 +7,15 @@ QSPD uses Einstein rate equation model to construct the rate equations, and solv
 The simplest case is a 2-level system namely there're two states with different energies in the system. According to the model, three types of transition can happen. <br>
   1. Absorption process - absorbing a photon to go to the higher-energy level
   
-          ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AtomicLineAb.svg/340px-AtomicLineAb.svg.png)
+        ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AtomicLineAb.svg/340px-AtomicLineAb.svg.png)
       
   2. Spontaneous emission process 
   
-          ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/AtomicLineSpEm.svg/339px-AtomicLineSpEm.svg.png)
+        ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/AtomicLineSpEm.svg/339px-AtomicLineSpEm.svg.png)
       
   3. Stimulated emission process
   
-          ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AtomicLineInEm.svg/340px-AtomicLineInEm.svg.png)
+        ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AtomicLineInEm.svg/340px-AtomicLineInEm.svg.png)
 
 The Einstein rate equation then can be written as:
 
