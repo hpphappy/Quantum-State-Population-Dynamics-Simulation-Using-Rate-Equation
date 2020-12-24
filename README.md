@@ -26,14 +26,13 @@ where ![](http://latex.codecogs.com/png.latex?\dpi{110}&space;\rho_i) is the pop
 
 ## Usage
 1.  Prepare necessary files for constructing the rate equation.
+  To construct the rate equations, you need the following .csv files.
 
-To construct the rate equations, you need the following .csv files.
-
-  1. the transition energy matrix, TransE[i,j] = StateEnergy[i]-StateEnergy[j]. 
+    1. the transition energy matrix, TransE[i,j] = StateEnergy[i]-StateEnergy[j]. 
     The example file is `AlH+\_v1_TransitionEnergy_Threshold-6.csv` in the repository.
-  2. the oscillator strength matrix
+    2. the oscillator strength matrix
     The example file is `AlH+\_v1_OscillatorStrength_Threshold-6.csv` in the repository
-  3. the array of state degeneracies.
+    3. the array of state degeneracies.
     The example file is `AlH+\_v1_J_degeneracy_sort_by_Energy_Threshold-6.csv`
     
 **Note 1:** 
