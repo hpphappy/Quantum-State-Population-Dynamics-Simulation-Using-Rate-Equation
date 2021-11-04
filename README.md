@@ -1,5 +1,5 @@
 # QSPD
-QSPD is used to solve the rate equations to obtain the **q**uantum ****tates **p**opulation **d**ynamics. 
+QSPD is used to solve the rate equations to obtain the **q**uantum **s**tates **p**opulation **d**ynamics. 
 
 
 ## Introduction
